@@ -15,7 +15,7 @@ interface = gr.Interface(
     inputs=gr.inputs.Textbox(placeholder="Ask a legal question about Papua New Guinea..."),
     outputs="text",
     title="PNGLawBot",
-    description="A chatbot specializing in legal aspects of Papua New Guinea. Ask me anything!",
+    description="A chatbot specializing in legal aspects of Papua New Guinea. Ask me anything releated to Legal matters in PNG!",
     theme="default"
 )
 
